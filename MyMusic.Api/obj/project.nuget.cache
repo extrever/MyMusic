@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2IOUMJYA45fVjyBDZZtw7GsnboUmJSSA1fNUGR6WkpeK1YW8wtDsgdDQkAPkrRiqEZdlHbuEkNBLhLNinbrx4w==",
+  "success": true,
+  "projectFilePath": "/home/extrever/Coding/MyMusic/MyMusic.Api/MyMusic.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/extrever/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

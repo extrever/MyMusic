@@ -1,0 +1,2 @@
+Finished on the DbContext part from the manual
+Need to push project to git hub.

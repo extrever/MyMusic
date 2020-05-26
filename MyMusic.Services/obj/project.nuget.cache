@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jM5vLJ3Ti8kaEp1CU6km1wr5J6cl+Pgp04iqdh+TUsmi66y+u9Rdx0b/N4hsF7knDK/yMddiVDecy/LO46xsiA==",
+  "success": true,
+  "projectFilePath": "/home/extrever/Coding/MyMusic/MyMusic.Services/MyMusic.Services.csproj",
+  "expectedPackageFiles": [
+    "/home/extrever/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/extrever/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
